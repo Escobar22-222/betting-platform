@@ -6,6 +6,3 @@ export default function Home() {
     </div>
   );
 }
-export default function Home() {
-  return <h1>Welcome to the Betting Platform</h1>;
-}
